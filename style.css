@@ -1,0 +1,33 @@
+.div1 {
+background-color: rgb(14, 125, 221);
+color: red;
+border-style: groove;
+border-color: seagreen;
+width: 50%;
+height: 50%;
+border-width: 30px;
+padding: 35px 30px 35px 30px;
+
+}
+.div11 {
+text-align: center;
+color: blue;
+background-color: crimson;
+border-style:inset;
+margin-top: 10%;
+text-transform: capitalize;
+border-width: 10px;
+width: 50%;
+height: 20%;
+}
+
+.div3 {
+text-align: center;
+color: orangered;
+border-style: ridge;
+border-width: 20px;
+background-color: darkmagenta;
+width: 40%;
+height: 60%;
+}
+
